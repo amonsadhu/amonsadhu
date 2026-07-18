@@ -28,11 +28,11 @@ Campus Ambassador for Threws Research World, and leading the IIC Internship
 Cell & Electronauts. I build AI-powered platforms and web apps, with
 hardware/robotics projects on the side.
 
-- 🧠 **AI/ML:** Python, TensorFlow, PyTorch, LangChain
-- 🌐 **Web:** HTML, CSS, JS, React, Tailwind, Node.js, MongoDB, MySQL
-- 🧩 **Languages:** C, C++, Python, JavaScript
-- 🛠️ **Tools:** Git, GitHub, VS Code, MATLAB
-- 📜 Google & Microsoft certified in AI/ML
+- **AI/ML:** Python, TensorFlow, PyTorch, LangChain
+- **Web:** HTML, CSS, JS, React, Tailwind, Node.js, MongoDB, MySQL
+- **Languages:** C, C++, Python, JavaScript
+- **Tools:** Git, GitHub, VS Code, MATLAB
+- Google & Microsoft certified in AI/ML
 
 ---
 
