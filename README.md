@@ -34,6 +34,7 @@ hardware/robotics projects on the side.
 - **Tools:** Git, GitHub, VS Code, MATLAB
 - Google & Microsoft certified in AI/ML
 
+and when I'm not building things, I'm probably planning my next trip or hunting down the best food in town — always up for both.
 ---
 
 <p align="center"><sub>
