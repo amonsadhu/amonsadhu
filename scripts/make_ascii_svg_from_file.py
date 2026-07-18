@@ -1,5 +1,5 @@
 """
-Render an ALREADY-MADE ascii art .txt file into the terminal-style SVG frame
+Render an ascii art .txt file into the terminal-style SVG frame
 used across this profile (title bar, monochrome ink, row-by-row "typing"
 reveal, status bar). The ascii content itself is used EXACTLY as given --
 no resampling, no re-mapping, no character substitution.
