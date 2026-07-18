@@ -1,5 +1,5 @@
 <h1 align="center">Amon Sadhu</h1>
-<p align="center">AI | Full Stack | Robotics | Research</p>
+<p align="center">AI | Full Stack | Robotics | Research | Orator</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amon-sadhu-7bbb7629a/">LinkedIn</a> ·
